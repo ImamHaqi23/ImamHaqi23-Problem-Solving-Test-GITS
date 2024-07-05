@@ -26,3 +26,7 @@
 - Variabel `bracketPairs` adalah objek tetap yang menyimpan pasangan tanda kurung, sehingga memiliki kompleksitas ruang `O(1)`.
 
 **Total kompleksitas ruang adalah `O(n)`**.
+
+### Kesimpulan
+
+Program ini efisien dalam hal waktu dan ruang, dengan kompleksitas waktu O(n) dan kompleksitas ruang O(n). Ini memastikan bahwa program dapat memeriksa keseimbangan tanda kurung dalam waktu linear relatif terhadap panjang string, dan hanya menggunakan ruang yang proporsional dengan panjang string.
